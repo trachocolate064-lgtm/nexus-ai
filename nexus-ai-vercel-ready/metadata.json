@@ -1,6 +1,0 @@
-{
-  "name": "Nexus AI",
-  "description": "Your intelligent assistant for learning, programming, writing, research, and daily tasks.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
